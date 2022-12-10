@@ -1,0 +1,129 @@
+[
+    {
+        "name": "cheese pizza",
+        "price": 500,
+        "off": 15,
+        "category": "pizza",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdinV5L1teIiTTg43kL4lmlpPEjfG0ECJ6zA&usqp=CAU",
+        "id": 1,
+        "rating":[1,2,3,4,5]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 650,
+        "off": 25,
+        "category": "pizza",
+        "image_url": "https://i.ytimg.com/vi/MIyY8iAEvZ8/maxresdefault.jpg",
+        "id": 2,
+        "rating":[1,2,3]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 1000,
+        "off": 15,
+        "category": "pizza",
+        "image_url": "https://i.ytimg.com/vi/MIyY8iAEvZ8/maxresdefault.jpg",
+        "id": 3,
+        "rating":[1,2,3,4]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 700,
+        "off": 35,
+        "category": "pizza",
+        "image_url": "https://i.ytimg.com/vi/MIyY8iAEvZ8/maxresdefault.jpg",
+        "id": 4,
+        "rating":[1,2]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 400,
+        "off": 25,
+        "category": "sandwich",
+        "image_url": "https://insanelygoodrecipes.com/wp-content/uploads/2021/03/Homemade-Grilled-Cheese-Sandwich-with-Tomatoes-500x375.png",
+        "id": 5,
+        "rating":[1,2,3,4]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 390,
+        "off": 5,
+        "category": "sandwich",
+        "image_url": "https://static.toiimg.com/thumb/83740315.cms?imgsize=361903&width=800&height=800",
+        "id": 6,
+        "rating":[1,2,3,4,5]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 390,
+        "off": 5,
+        "category": "sandwich",
+        "image_url": "https://static.toiimg.com/thumb/83740315.cms?imgsize=361903&width=800&height=800",
+        "id": 7,
+        "rating":[1,2,3,4,5]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 390,
+        "off": 5,
+        "category": "burger",
+        "image_url": "https://www.okmart.pk/wp-content/uploads/2020/04/burger_zingercheese.jpg",
+        "id": 8,
+        "rating":[1,2,3,4,5]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 390,
+        "off": 5,
+        "category": "burger",
+        "image_url": "https://www.okmart.pk/wp-content/uploads/2020/04/burger_zingercheese.jpg",
+        "id": 9,
+        "rating":[1,2,3,4,5]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 390,
+        "off": 5,
+        "category": "burger",
+        "image_url": "https://haidasandwich.ca/wp-content/uploads/2020/12/haida-burger-1.jpg",
+        "id": 10,
+        "rating":[1,2,3,4,5]
+    },
+    
+    {
+        "name": "cheese pizza",
+        "price": 80,
+        "off": 5,
+        "category": "drinks",
+        "image_url": "https://www.kindpng.com/picc/m/134-1345888_glass-of-coke-coca-cola-glass-png-transparent.png",
+        "id": 11,
+        "rating":[1,2,3,4,5]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 80,
+        "off": 5,
+        "category": "drinks",
+        "image_url": "https://www.kindpng.com/picc/m/134-1345888_glass-of-coke-coca-cola-glass-png-transparent.png",
+        "id": 12,
+        "rating":[1,2,3,4,5]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 80,
+        "off": 5,
+        "category": "drinks",
+        "image_url": "https://s7d1.scene7.com/is/image/mcdonalds/mcd-sprite-uae-v1-2022?wid=404&hei=404&dpr=off",
+        "id": 13,
+        "rating":[1,2,3,4,5]
+    },
+    {
+        "name": "cheese pizza",
+        "price": 80,
+        "off": 5,
+        "category": "drinks",
+        "image_url": "https://s7d1.scene7.com/is/image/mcdonalds/mcd-sprite-uae-v1-2022?wid=404&hei=404&dpr=off",
+        "id": 14,
+        "rating":[1,2,3,4,5]
+    }
+]
